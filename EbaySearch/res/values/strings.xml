@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EbaySearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Keywordlabel">Keyword</string>
+    <string name="price_from">Price From</string>
+    <string name="price_to">Price To</string>
+    <string name="sort">Sort By</string>
+    <string name="enter_keyword_here">Enter keyword here</string>
+    <string name="from_">From ($)</string>
+    <string name="to_">To ($)</string>
+    <string name="ebay_search">eBay Search</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="facebook_app_id">806798322744213</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="textview">TextView</string>
+    <string name="seller">SELLER</string>
+    <string name="basic_info">Basic Info</string>
+    <string name="condition">Condition</string>
+    <string name="category_name">Category Name</string>
+    <string name="feedback_score">Feedback Score</string>
+    <string name="return_accepted">Return Accepted</string>
+    <string name="one_day_shipping">One Day Shipping</string>
+    <string name="expedited_shipping">Expedited Shipping</string>
+    <string name="shipping_location">Shipping Location</string>
+    <string name="buying_format">Buying Format</string>
+    <string name="user_name">User Name</string>
+    <string name="positive_feedback">Positive Feedback</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="store">Store</string>
+    <string name="shipping_type">Shipping Type</string>
+    <string name="handling_time">Handling Time</string>
+    <string name="feedback_rating">Feedback Rating</string>
+
+</resources>
